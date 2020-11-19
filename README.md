@@ -1,3 +1,3 @@
 # 1600-Markdown
 
-[a relative link] (1600Markdown.md)
+[Intro Page](1600Markdown.md)
