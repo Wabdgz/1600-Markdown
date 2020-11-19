@@ -3,7 +3,7 @@
 1. Zeus - god of sky and thunder.
 2. Poseidon - god of the sea.
 3. Hades -  god of the underworld.
-4. Hera - goddesses of marriage and childbirth.
+4. Hera - goddess of marriage and childbirth.
 5. Hermes - god of messengers, thieves and merchants.
 6. Ares - god of war.
 7. Athena - goddess of wisdom.
